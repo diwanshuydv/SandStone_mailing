@@ -1,4 +1,4 @@
-Sandstone Summit Mailing Automation
+Sandstone Summit Mailing Automation (idk why i uploaded it to github :))
 ===================================
 
 A robust, AI-driven automation suite designed to streamline outreach for **Sandstone Summit 5.0** at IIT Jodhpur. This system automates the workflow of scraping professional profiles, generating highly personalized invitation content using Google Gemini AI, and dispatching bulk emails via Google Apps Script.
