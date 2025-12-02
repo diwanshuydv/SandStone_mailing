@@ -21,7 +21,7 @@ def get_gemini_analysis(profile_data: str, company_name) -> str:
         # if not api_key:
         #     return "Error: GEMINI_API_KEY environment variable not set. Please set it to your API key."
             
-        genai.configure(api_key="AIzaSyA45Z1w98SfDQ79eHB51YlqNZghSV8rxSo")
+        genai.configure(api_key="YOUR_API_KEY")
 
         # --- 2. INITIALIZE THE MODEL ---
         # Using the 'gemini-1.5-flash' model for speed and efficiency.
